@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.servico.ServicoFragment">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Sistema de gestão de qualidade"
+       android:textSize="24sp"
+       android:textStyle="bold"/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="8dp"
+       android:text="Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais estende o alcance e a importância das posturas dos órgãos dirigentes com relação às suas atribuições." />
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="16dp"
+       android:text="Indicadores de desempenho"
+       android:textSize="24sp"
+       android:textStyle="bold"/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="8dp"
+       android:text="Além de ser usado como um recurso para girar o conteúdo do texto ou parafrasear, o Gerador de Frases Complexas pode ser fundamental para realizar várias tarefas adicionais. Aperfeiçoamento do vocabulário, aprendizado de novas maneiras de utilizar palavras e frases em português e ainda pode adicionar mais exclusividade ao processo de geração do novo conteúdo. Devido a raridade das palavras e frases que estão no banco de dados deste gerador de paráfrase, este recurso pode criar e exibir um estilo único de escrita e vocabulário. Também ficamais fácil encontrar e descobrir novas palavras." />
+</LinearLayout>
